@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 131bd581e96736146853589093250334
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nature_props_01_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 352
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2f2f321cfa4094fa3a3550d6dda2b8
+      internalID: -1951227757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 352
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6925007884329304e90aec307a545641
+      internalID: -179212569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 352
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaf5b61c278f8d40815704209d87806
+      internalID: -1561123271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 352
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9384e7557e61d5e499cb67e60637317c
+      internalID: 1463505095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 352
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a13a8b7fbd161e4590f51af61ed2f53
+      internalID: 1595797597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 352
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13732e34563e52940a8c5b52cf587e2d
+      internalID: -766956348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 352
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053878e193b58f64682fa6eddf76bfb0
+      internalID: -1676797558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 352
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b01dd67b35b984ab0dc4dee03d4ebb
+      internalID: 2085943162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_8
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 352
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954b887c742aefd4b9687fa70bd47b9a
+      internalID: -1206938883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_9
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 352
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f087b69c50aa86946b9658179f618e04
+      internalID: -237085663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f458fc6d39347642abf547b619ed796
+      internalID: 418626947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb7d6a00dfb27344afbd230a10c9718
+      internalID: -425695023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739a346edf38f604cb87eadfe9034af8
+      internalID: 1147290628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cb7c0ac0476a14aadbe975e8f49255
+      internalID: 1475485064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756bc35549b262043a694b2e8babedc7
+      internalID: 953123752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59a7260b5bbfe341bbe64f8cc889eb2
+      internalID: -1801962931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97db338af75580449169c8600361225
+      internalID: 175047793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3726826672a53ba48a6e6ba62e9faf5d
+      internalID: 1121974234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a274b23502c81574aaecddba1f7442e9
+      internalID: 870059521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb5a7e23fa10774a98b0431d923ac33
+      internalID: -282149610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_20
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab01b05adf7bff447ba95c3fc47f602e
+      internalID: -1509795160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_21
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dac186dd3826548878b26e4b4d71c4
+      internalID: -24791238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b30fe629f4a2c45874d1b6489f6db8
+      internalID: 836665592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e145f5be2e0e94393096539ac1eba5
+      internalID: -1681491662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57d41765fe8f5645a8b9ac077c005fc
+      internalID: -1474245251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6a5ac3576818e47bfd55d50f4aacc5
+      internalID: -2120756929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75343427a959444991cfd688d45e5cc
+      internalID: -439289178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514aeefca45aa8a40a31ee2aaa963cf6
+      internalID: 1622769945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aec584861bff148ad3b729fee0918b
+      internalID: -205482100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f8dd605e77cb14e91f866286cc035d
+      internalID: 1139074406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bb47ac3aadf4c428023c3120f39229
+      internalID: 921788020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3fe9767f30a714a8a2dbef88cf6fd7
+      internalID: -1373591356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_32
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9204445fbb60949bed86f75d4a832c
+      internalID: 1094942239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_33
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82864a3419612bf4389338e25560dd9d
+      internalID: 969040219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7bcc432d261248b27a4c819b275ce
+      internalID: 835639249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c83c901b0d060348b608bc18c9cecdc
+      internalID: -1158759571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8e03a87af0b1446890684afe09f865
+      internalID: -1966424058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5dd000d4be9454e95381a2d48b4374
+      internalID: -822399246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_38
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce509b49eb71e84db55bfc645674bbb
+      internalID: 972027981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_39
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e951bbd215b918f4ab918de3b4c6e5bf
+      internalID: -1578711082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_40
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea65e23f85274e40bcff43c17645ed5
+      internalID: -1375948109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e777295ffa117478fec20a5a47af84
+      internalID: 1798421011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_42
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11551ffbf1532b47a2ad753b078c62c
+      internalID: 1132829441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1418bd73462b5bf41900779c8ceb704b
+      internalID: -1787270276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6da5f952151ee4682653d8c3737564
+      internalID: -1153178996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42d6e87cd2e5b247b562b0c155d0327
+      internalID: 296496704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c647740071b8de549af9dee0d4873010
+      internalID: 289810115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b0d2b5aee38748a50ca9eca361890
+      internalID: -1153503117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b115d3d2ac419b428282f8423d6c0b1
+      internalID: 839123319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8bfc33adc9f51478703a119e6a03e0
+      internalID: 757978207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea79e005677bb3349bdd823461fe425d
+      internalID: -160172973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_51
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cf6bcf2e722b2458e40be1c7a54dbd
+      internalID: 1064405331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85581de0fb66ebb4fa36798807ffd776
+      internalID: 1241861076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_53
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6bb481b8a903a44a26ad018ddb0fdb
+      internalID: 386569172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_54
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f35db530ffe9a408882f6462c9d28d
+      internalID: 637674988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781ec8b08d53b0f42b6e058e0be7de7b
+      internalID: 881003937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79454eca9bb8ec4585ced61ee5d5b6e
+      internalID: 1552952539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_props_01_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de66366017fa1604a9d77c12097c0155
+      internalID: 756107658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nature_props_01_0: -1951227757
+      Nature_props_01_1: -179212569
+      Nature_props_01_10: 418626947
+      Nature_props_01_11: -425695023
+      Nature_props_01_12: 1147290628
+      Nature_props_01_13: 1475485064
+      Nature_props_01_14: 953123752
+      Nature_props_01_15: -1801962931
+      Nature_props_01_16: 175047793
+      Nature_props_01_17: 1121974234
+      Nature_props_01_18: 870059521
+      Nature_props_01_19: -282149610
+      Nature_props_01_2: -1561123271
+      Nature_props_01_20: -1509795160
+      Nature_props_01_21: -24791238
+      Nature_props_01_22: 836665592
+      Nature_props_01_23: -1681491662
+      Nature_props_01_24: -1474245251
+      Nature_props_01_25: -2120756929
+      Nature_props_01_26: -439289178
+      Nature_props_01_27: 1622769945
+      Nature_props_01_28: -205482100
+      Nature_props_01_29: 1139074406
+      Nature_props_01_3: 1463505095
+      Nature_props_01_30: 921788020
+      Nature_props_01_31: -1373591356
+      Nature_props_01_32: 1094942239
+      Nature_props_01_33: 969040219
+      Nature_props_01_34: 835639249
+      Nature_props_01_35: -1158759571
+      Nature_props_01_36: -1966424058
+      Nature_props_01_37: -822399246
+      Nature_props_01_38: 972027981
+      Nature_props_01_39: -1578711082
+      Nature_props_01_4: 1595797597
+      Nature_props_01_40: -1375948109
+      Nature_props_01_41: 1798421011
+      Nature_props_01_42: 1132829441
+      Nature_props_01_43: -1787270276
+      Nature_props_01_44: -1153178996
+      Nature_props_01_45: 296496704
+      Nature_props_01_46: 289810115
+      Nature_props_01_47: -1153503117
+      Nature_props_01_48: 839123319
+      Nature_props_01_49: 757978207
+      Nature_props_01_5: -766956348
+      Nature_props_01_50: -160172973
+      Nature_props_01_51: 1064405331
+      Nature_props_01_52: 1241861076
+      Nature_props_01_53: 386569172
+      Nature_props_01_54: 637674988
+      Nature_props_01_55: 881003937
+      Nature_props_01_56: 1552952539
+      Nature_props_01_57: 756107658
+      Nature_props_01_6: -1676797558
+      Nature_props_01_7: 2085943162
+      Nature_props_01_8: -1206938883
+      Nature_props_01_9: -237085663
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
